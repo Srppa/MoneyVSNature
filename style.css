@@ -5,3 +5,7 @@ body{
 main{
     text-align: center;
 }
+
+.text-gap{
+    margin-bottom: 30px;
+}
